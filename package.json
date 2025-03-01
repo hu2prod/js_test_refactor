@@ -1,0 +1,15 @@
+{
+  "name": "js_test_refactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "orig.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.1.0"
+  }
+}
