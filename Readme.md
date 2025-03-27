@@ -12,8 +12,15 @@
 | Функциональное программирование | src/script/modular_fp.js  | test/modular_fp.js  |
 | ООП                             | src/script/modular_oop.js | test/modular_oop.js |
 | mix                             | src/script/mix.js         | test/mix.js         |
+| **N-API**                       | src/script/napi.coffee    |                     |
 
 # Список ошибок
 Некоторые ошибки в оригинальном коде в результате рефакторинга остались
 * pop последней линии
 * 2 пробела в начале каждой строки csv начиная с 2-го рядка
+
+# Update 27.03.2025
+"Надо показать Тимуру что-то интересное"
+* Генератор N-API (https://github.com/hu2prod/t2c)
+* https://github.com/hu2prod/t2c/blob/main/gen/zz_main.coffee (zz чтобы файл по алфавиту был точно последним)
+* Конфигурация полей, типов, форматирования, в одном месте

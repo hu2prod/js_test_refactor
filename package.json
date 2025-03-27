@@ -2,14 +2,21 @@
   "name": "js_test_refactor",
   "version": "1.0.0",
   "description": "",
-  "main": "orig.js",
   "scripts": {
-    "test": "mocha"
+    "build_napi": "./s1_linux_build.coffee --verbose"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "vird",
+    "email": "virdvip@gmail.com"
+  },
+  "license": "MIT",
   "dependencies": {
-    "mocha": "^11.1.0"
-  }
+    "fy": "github:hu2prod/fy",
+    "lock_mixin": "github:hu2prod/lock_mixin",
+    "minimist": "^1.2.6",
+    "colors": "^1.4.0",
+    "prettyjson": "^1.2.5"
+  },
+  "devDependencies": {}
 }
