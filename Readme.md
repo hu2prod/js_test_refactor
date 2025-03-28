@@ -24,3 +24,4 @@
 * Генератор N-API (https://github.com/hu2prod/t2c)
 * https://github.com/hu2prod/t2c/blob/main/gen/zz_main.coffee (zz чтобы файл по алфавиту был точно последним)
 * Конфигурация полей, типов, форматирования, в одном месте
+* (ну а что, Python'у можно писать всё быстрое на C++ (привет numpy), а node.js нельзя?)
